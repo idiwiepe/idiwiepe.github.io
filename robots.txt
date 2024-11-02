@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idiwiepe.github.io/ONM/sitemap_index.txt
+Sitemap: https://idiwiepe.github.io/Zkl/sitemap_index.txt
+Sitemap: https://idiwiepe.github.io/pZT/sitemap_index.txt
+Sitemap: https://idiwiepe.github.io/yDv/sitemap_index.txt
